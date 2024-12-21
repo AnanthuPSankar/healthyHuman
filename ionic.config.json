@@ -1,0 +1,7 @@
+{
+  "name": "healthy-human",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
